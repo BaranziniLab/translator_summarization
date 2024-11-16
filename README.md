@@ -37,7 +37,7 @@ The list of biological paths represents the mechanistic explanation of how that 
 ```
 import requests
 
-api_endpoint = "https://biosummary.pythonanywhere.com/summary"
+api_endpoint = "https://ncats-llm-summarization.onrender.com/summary"
 
 def stream_response(url, data):
     headers = {'Content-Type': 'application/json'}
