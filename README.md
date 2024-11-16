@@ -2,10 +2,6 @@
 
 This repository contains a Flask-based API that generates summaries of structured responses from the [Biomedical Data Translator system](https://ui.transltr.io/demo) in natural language.
 
-Currently, the API is hosted in the following URL:
-
-https://biosummary.pythonanywhere.com
-
 ### Summary Endpoint
 
 API has the summary endpoint called **"/summary"**.
